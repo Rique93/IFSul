@@ -2,44 +2,48 @@ body{
 	font-family: tahoma;
 	margin: 30px 20px 30px 20px;
 }
-h1,h2{
-	color: white;
-	background-color: green;
-}
 h1{
 	font-size: 50px;
+	color: white;
+	background-color: green;
 	font-weight: bold;
 }
 h2{
 	font-size: 35px;
+	color: white;
+	background-color: green;
 	font-style: italic;
 }
 p{
 	text-align: justify;
 	font-size: 20px;
 }
-.turma{
+header{
 	text-decoration: underline;
 	font-style: italic;
 	text-align: right;
 	font-size: 15px;
 }
-.nome_quico{
-	color: red;
-}
-.nome_madruga{
+
+.rv{
 	color: blue;
 }
-.nome_chiquinha{
+.man{
 	color: green;
 }
-.foto{
+.cv{
+	color: red;
+}
+.elenco{
 	text-align:center;
 }
 .quico{
 	border-style: solid;
 	border-color: red;
 	border-width: 5px;
+}
+.pg_quico{
+	background-color: red;
 }
 .chiquinha{
 	border-style: solid;
@@ -50,6 +54,9 @@ p{
 	border-style: solid;
 	border-color: blue;
 	border-width: 5px;
+}
+.pg_madruga{
+	background-color: blue;
 }
 
 
