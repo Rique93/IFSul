@@ -3,34 +3,36 @@ body{
 	background-color:#2F4F4F;
 	color: black;
 }
-h1,h2{
-	text-transform: uppercase;
-	text-align: right;
-}
 p{
 	text-align: justify;
 	font-size: 12px;
 	margin-left: 5px;
 	margin-top: 10px;
 }
-div{
-	text-align: center;
+h1,h2{
+	text-transform: uppercase;
+	text-align: right;
 }
 .gremio{
-	color: blue;
+	color: #0000CD;
 }
 .inter{
-	color: red;
+	color: #EE0000;
+	font-style: italic;
 }
 .cbf{
 	color: yellow;
 }
 .futebol{
-	background-color: #696969;
+	background-color: #CFCFCF;
 }
 .surf{
 	background-color: #87CEEB;
 }
-.principal{
+.titulo{
 	font-size: 30px;
 }
+div{
+	text-align: center;
+}
+
