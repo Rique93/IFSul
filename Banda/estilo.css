@@ -1,0 +1,18 @@
+body{
+	background-color:#36648B;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 40px;
+	margin-right: 40px;
+	position: absolute;
+}
+.capa{
+	width: 1170px;
+	height: 350px;
+	background-position: left;
+}
+hr{
+	color: black;
+}
+table{
+}
