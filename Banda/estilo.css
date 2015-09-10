@@ -14,5 +14,42 @@ body{
 hr{
 	color: black;
 }
+.menu{
+	text-align:center;
+}
+.banda{
+	width: 500px;
+	height: 300px;
+	background-position: left;
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+
 table{
+	border-style: solid;
+	text-align: center;
+	border-color: black;
+}
+
+ td{
+	border-style: solid;
+}
+
+.tabela1{
+	float: left;
+	margin-right: 20px;
+}
+.tabela2{
+	margin-top: 5px;
+	margin-right: 20px;
+	float: left;
+}
+.tabela3{
+	margin-top: 5px;
+}
+
+li{
+	text-align: center;
+	
 }
